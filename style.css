@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("imagens/fundo.png");
+    background-image: url("fundo.png");
     background-position: 100%;
     background-repeat: no-repeat;
     background-size: contain;
